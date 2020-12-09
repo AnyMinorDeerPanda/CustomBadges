@@ -1,3 +1,14 @@
+  
+/**
+ * @name CustomBadges
+ * @version Auto-Update
+ * @description Create Custom Badges using BetterDiscord
+ * @author AnyMinorDeerPanda
+ * 
+ * @website https://github.com/AnyMinorDeerPanda/
+ * @source https://github.com/AnyMinorDeerPanda/BetterDiscord/blob/main/Themes/CustomBadges/css/source.css
+ */
+
 .avatar-1BDn8e[src*="532709351887077385"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   content: "";
   width: 14px;
